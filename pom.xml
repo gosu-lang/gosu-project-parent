@@ -48,6 +48,12 @@
     </pluginRepository>
   </pluginRepositories>
 
+  <scm>
+    <connection>scm:git:git@github.com:gosu-lang/gosu-project-parent.git</connection>
+    <url>scm:git:git@github.com:gosu-lang/gosu-project-parent.git</url>
+    <developerConnection>scm:git:git@github.com:gosu-lang/gosu-project-parent.git</developerConnection>
+  </scm>
+
   <distributionManagement>
     <repository>
       <uniqueVersion>false</uniqueVersion>
