@@ -1,0 +1,1 @@
+This is a parent POM for Gosu projects, bringing in the gosu-lang.org repositories and maven-gosu-plugin.
