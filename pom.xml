@@ -56,8 +56,8 @@
   <distributionManagement>
     <repository>
       <uniqueVersion>false</uniqueVersion>
-      <id>gosu-lang.org-gosu</id>
-      <url>http://gosu-lang.org/nexus/content/repositories/gosu</url>
+      <id>gosu-lang.org-osprojects</id>
+      <url>http://gosu-lang.org/nexus/content/repositories/osprojects</url>
       <layout>default</layout>
     </repository>
     <snapshotRepository>
